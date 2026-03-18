@@ -1,1 +1,2 @@
-# almost-perfect-cherry-blossom
+# About this repository
+This is for testing purposes only.
