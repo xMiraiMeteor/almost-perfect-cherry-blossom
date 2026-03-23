@@ -1,0 +1,1 @@
+COUNTER_BUTTERFLY    = 0x1fed
